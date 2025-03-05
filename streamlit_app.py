@@ -1,6 +1,8 @@
+
 import streamlit as st
 
-st.title("🎈 My new app")
-st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
-)
+# Title of the app
+st.title('Hello Streamlit!')
+
+# Some text for the user
+st.write("Welcome to your first Streamlit app!")
